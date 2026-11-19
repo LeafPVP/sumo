@@ -1,0 +1,5 @@
+id: sumo
+name: Sumo
+version: 1.0.0
+main: dev.giqnt.leafpvp.sumo.SumoAddon
+api-version: "1.0"
